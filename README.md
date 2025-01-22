@@ -6,6 +6,7 @@ Overview
 Heart disease is the second leading cause of death in Canada. Additionally, worldwide heart disease is one of the most relevant topics. It is a topic of interest in many fields and people of different backgrounds including many doctors and researchers. Unfortunately, there is a lot of vagueness regarding the factors that directly affect or are related to heart diseases. This report will dive deeper into the topic to seek some clarification and answer the following 4 goal questions.
 
 Goals
+
 Is age a significant contributing factor to cholesterol levels?
 
 Is resting blood pressure needed to accurately predict and draw conclusions about a patient's cholesterol levels?
