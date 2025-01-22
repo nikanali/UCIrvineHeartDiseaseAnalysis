@@ -7,9 +7,12 @@ Heart disease is the second leading cause of death in Canada. Additionally, worl
 
 Goals
 Is age a significant contributing factor to cholesterol levels?
+
 Is resting blood pressure needed to accurately predict and draw conclusions about a patient's cholesterol levels?
+
 Is a patient's cholesterol levels a significant enough indicator of the possibility of heart disease?
- Are there any indicators significantly contributing to a patient's low blood pressure over healthy?
+
+Are there any indicators significantly contributing to a patient's low blood pressure over healthy?
 
 Description
 
